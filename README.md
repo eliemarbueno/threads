@@ -1,3 +1,8 @@
+# Environment
+
+For this sample, I used Spring Tool Suit (Eclipse) and JDK 21.
+
+
 # Multithreading and Concurrency Examples
 
 This repository contains examples of concurrent programming in Java, covering different techniques and structures for handling threads and parallel execution.
